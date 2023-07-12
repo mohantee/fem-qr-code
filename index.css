@@ -32,7 +32,7 @@ main {
   background-color: var(--clr-neutral-100);
   border-radius: 20px;
   padding: 1em;
-  margin: 8em auto;
+  margin: 10em auto;
   box-shadow: 0px 25px 25px 0px rgba(0, 0, 0, 0.05);
 }
 
@@ -54,13 +54,4 @@ p {
   color: var(--clr-neutral-400);
   width: 256px;
   margin: 0 auto 1em;
-}
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
