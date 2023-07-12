@@ -41,11 +41,10 @@ img {
   border-radius: 10px;
 }
 
-h2 {
+h1 {
   font-family: var(--ff-primary);
   font-size: var(--fs-700);
   color: var(--clr-primary-900);
-  letter-spacing: 0.6px;
 }
 
 p {
